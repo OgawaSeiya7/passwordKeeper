@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B8BF03392A597FE900A01750 /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8BF03382A597FE900A01750 /* test.swift */; };
 		B8CAFC952A1E70D6006B01CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8CAFC942A1E70D6006B01CB /* AppDelegate.swift */; };
 		B8CAFC972A1E70D6006B01CB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8CAFC962A1E70D6006B01CB /* SceneDelegate.swift */; };
 		B8CAFC992A1E70D6006B01CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8CAFC982A1E70D6006B01CB /* ViewController.swift */; };
@@ -23,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		B8BF03372A597AF000A01750 /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
+		B8BF03382A597FE900A01750 /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
 		B8CAFC912A1E70D6006B01CB /* PasswordKeeper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PasswordKeeper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8CAFC942A1E70D6006B01CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B8CAFC962A1E70D6006B01CB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				B8BF03372A597AF000A01750 /* Config.xcconfig */,
+				B8BF03382A597FE900A01750 /* test.swift */,
 			);
 			path = key;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				B8CAFCD32A1EAAF3006B01CB /* DataModel.xcdatamodeld in Sources */,
 				B8CAFC972A1E70D6006B01CB /* SceneDelegate.swift in Sources */,
 				B8CAFCAA2A1E76C5006B01CB /* CardTableViewCell.swift in Sources */,
+				B8BF03392A597FE900A01750 /* test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
